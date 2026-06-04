@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <a href="https://t.me/Sf_dev01">
+  <a href="https://t.me/Behruz_Muhammadjonov">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
-### 👋 Привет! Я — Бекруз (beorht)
+### 👋 Привет! Я — Бехруз (beorht)
 
 Я создаю масштабируемые Backend-системы, интеллектуальные AI-решения и кроссплатформенные приложения. Мой фокус — объединение мощи нейросетей с надежной архитектурой для решения реальных проблем безопасности и автоматизации.
 
