@@ -59,12 +59,6 @@
 
 ### 📊 Статистика активности
 
-
-<div align="center">
-  <img height="180em" src="./profile/stats.svg" />
-  <img height="180em" src="./profile/top-langs.svg" />
-</div>
-
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=beorht&theme=vue" alt="GitHub Streak" /></a>
   <!-- img src="https://streak-stats.demolab.com/?user=beorht&theme=radical" /-->
