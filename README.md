@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
-### 👋 Привет! Я — Бехруз (beorht) ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+### 👋 Привет! Я — Бехруз (beorht) 
 
 Я создаю масштабируемые Backend-системы, интеллектуальные AI-решения и кроссплатформенные приложения. Мой фокус — объединение мощи нейросетей с надежной архитектурой для решения реальных проблем безопасности и автоматизации.
 
@@ -59,7 +59,6 @@
 
 ### 📊 Статистика активности
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beorht)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img height="180em" src="./profile/stats.svg" />
@@ -69,7 +68,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=beorht&theme=radical" />
 </div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=beorht)](https://git.io/streak-stats)
 ---
 
 ### 📫 Как меня найти
