@@ -66,13 +66,9 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=beorht&theme=onedark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=beorht&theme=vue" alt="GitHub Streak" /></a>
   <!-- img src="https://streak-stats.demolab.com/?user=beorht&theme=radical" /-->
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=beorht&theme=gruvbox-duo)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=beorht)](https://git.io/streak-stats)
 
 ---
 
