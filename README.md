@@ -59,7 +59,7 @@
 
 ### 📊 Статистика активности
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beorht)](https://github.com/beorht/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beorht)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img height="180em" src="./profile/stats.svg" />
