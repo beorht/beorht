@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=Bexruz%20|%20Full-stack%20&%20AI%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" />
-  <br>
-  <img src="./img/dev-cat.gif" width="200" />
+  <img src="./img/dev-cat.gif" width="400" />
 </div>
 
 <div align="center">
