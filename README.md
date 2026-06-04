@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
-### 👋 Привет! Я — Бекруз (Sf_dev)
+### 👋 Привет! Я — Бекруз (beorht)
 
 Я создаю масштабируемые Backend-системы, интеллектуальные AI-решения и кроссплатформенные приложения. Мой фокус — объединение мощи нейросетей с надежной архитектурой для решения реальных проблем безопасности и автоматизации.
 
@@ -58,6 +58,8 @@
 ---
 
 ### 📊 Статистика активности
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beorht)](https://github.com/beorht/github-readme-stats)
 
 <div align="center">
   <img height="180em" src="./profile/stats.svg" />
