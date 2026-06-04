@@ -1,8 +1,4 @@
 <div align="center">
-  ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-  
-  <br>
-
   <img src="./img/dev-cat.gif" width="400" />
 </div>
 
@@ -13,7 +9,7 @@
   <img src="https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
-### 👋 Привет! Я — Бехруз (beorht)
+### 👋 Привет! Я — Бехруз (beorht) ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 Я создаю масштабируемые Backend-системы, интеллектуальные AI-решения и кроссплатформенные приложения. Мой фокус — объединение мощи нейросетей с надежной архитектурой для решения реальных проблем безопасности и автоматизации.
 
